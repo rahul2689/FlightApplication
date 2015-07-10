@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlightApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="time">Time</string>
+    <string name="duration">Duration</string>
+    <string name="price">Price</string>
+    <string name="action_filter">Filter</string>
+    <string name="dialog_title">Sort Options</string>
+    <string name="list_sorted">List Sorted</string>
+
+</resources>
